@@ -12,6 +12,6 @@ All sources contains data from July 27, 2020 through October 27, 2020. The detai
 
 The evaluation will be performed on a manually curated list of COVID.-related protests events from ACLED () for the relevant period. You may either process a data source you choose or both. Please submit separate files for the events you extracted from the source(s) you choose. If you want to combine/merge/integrate the results from each source in a file, you can create a third file. 
 
-The full description of the task is available in this <a https://github.com/zavavan/case2022_task2/blob/a2a8dd5b51cfc6951b288bed3c919e6b7051cfc4/Task2_Description.pdf">file</a> and a sample submission format can be found in this <a href="https://github.com/zavavan/case2022_task2/blob/56b1ac3560f89548cf6876d2d871f00683a6730f/submission.myteam.news.3.csv">file</a>.
+The full description of the task is available in this <a href="https://github.com/zavavan/case2022_task2/blob/a2a8dd5b51cfc6951b288bed3c919e6b7051cfc4/Task2_Description.pdf">file</a> and a sample submission format can be found in this <a href="https://github.com/zavavan/case2022_task2/blob/56b1ac3560f89548cf6876d2d871f00683a6730f/submission.myteam.news.3.csv">file</a>.
 
 Please send the submission files to ahurriyetoglu@gmail.com, hristo.tanev@ec.europa.eu. For further details please contact Vanni Zavarella (vanzavavan@gmail.com)
