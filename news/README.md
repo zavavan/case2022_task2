@@ -18,6 +18,6 @@ After you run this, a file named "out.json" will be created. Each line of this f
 The articles are filtered by checking the occurrence of keywords ["covid","coronavirus"] in the top two sentences of the articles. Overall the collection contains around 122k articles.
 Data are released in a single tab separated file, whose format is:
 
-[id	date	title	description]
+[id	date	title	abstract]
 
 Please contact ali.hurriyetoglu@gmail.com or hristo.tanev@ec.europa.eu for further details on this dataset.
