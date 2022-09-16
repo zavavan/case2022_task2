@@ -10,11 +10,11 @@ The source data of this collection, together with documentation on how to proces
 
 https://github.com/thepanacealab/covid19_twitter.
 
-The collection of tweets is language tagged since July 27 2020. We further filter the data from July 27 2020 through October 26 2020 and produce two monolingual tweet collections for English and Spanish. 
+We use the clean version of this dataset that was already filtered for retweets. The collection of tweets is language tagged since July 27 2020. We further filter the data from July 27 2020 through October 26 2020 and produce two monolingual tweet collections for English and Spanish. 
 
 Namely, in order to restrict the sample to content from the US context, we filter for tweets which have a "Place" metadata with country_code="us" or (if "Place" is None) with a "User" location specified as one of the US States. For each day, we filter up to reaching a sampling cap of 0.1 and 0.5 of the original tweet collections, for English and Spanish respectively.
 
-The overall size of the tweet collections are about X and 46k, for English and Spanish, respectively, with an average of X and Y tweets by day.
+The overall size of the tweet collections are about X and 46k, for English and Spanish, respectively, with an average of X and 503 tweets by day. 
 
 ## Downloading Tweet Content
 
