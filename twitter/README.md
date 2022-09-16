@@ -14,7 +14,7 @@ We use the clean version of this dataset that was already filtered for retweets.
 
 Namely, in order to restrict the sample to content from the US context, we filter for tweets which have a "Place" metadata with country_code="us" or (if "Place" is None) with a "User" location specified as one of the US States. For each day, we filter up to reaching a sampling cap of 0.1 and 0.5 of the original tweet collections, for English and Spanish respectively.
 
-The overall size of the tweet collections are about X and 46k, for English and Spanish, respectively, with an average of X and 503 tweets by day. 
+The overall size of the tweet collections are about 2.8M and 46k, for English and Spanish, respectively, with an average of 30k and 503 tweets per day. 
 
 ## Downloading Tweet Content
 
